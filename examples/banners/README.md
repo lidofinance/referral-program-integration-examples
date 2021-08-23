@@ -10,3 +10,4 @@ Demos on are available on Codesandbox:
 - [`556x144 With Box Shadow`](https://2u7i9.csb.app/)
 - [`1340x148`](https://nt7sv.csb.app/)
 - [`1340x148 With Box Shadow`](https://4v5w5.csb.app/)
+- [`320x374 With Background and Box Shadow`](https://sbem4.csb.app/)
