@@ -8,7 +8,7 @@ To participate in the Lido Referral Program, simply go to [Lido Referral Program
 
 ## Referral link
 
-Your referral link will look something like this `https://stake.lido.fi/?ref=0x0000000000000000000000000000000000000000`. It leads to the [Lido Staking app](https://stake.lido.fi/) with your address as the `ref` search parameter. Whenever someone stakes ETH with your link, your address will be passed as the referral address into the Lido contract.
+Your referral link will look something like this `https://stake.lido.fi/?ref=0x0000000000000000000000000000000000000000`. It leads to the [Lido Staking app](https://stake.lido.fi/) with your address as the `ref` search parameter. Whenever someone stakes ETH with your link, your address will be passed as the referral address into the [Lido contract](https://etherscan.io/address/0xae7ab96520de3a18e5e111b5eaab095312d7fe84).
 
 ## Sharing your link
 
