@@ -18,7 +18,7 @@ You are free to share your link whichever way you want: DMs, social media, a pie
 - Paste it inside your `<a>` tag
 - That's it!
 
-See banner example (here)[/examples/banners].
+See banner examples [here](/examples/banners).
 
 ### Embedding the Lido Staking App
 - Add an `iframe` tag
@@ -27,4 +27,4 @@ See banner example (here)[/examples/banners].
 - [optional] add `width="360"` and `"height="500"` attributes to make the embedded app bigger
 - You're all done!
 
-See the embedded staking app example (here)[/examples/iframe]
+See the embedded staking app example [here](/examples/iframe)
