@@ -30,7 +30,7 @@ See banner examples [here](/examples/banners).
 - Add an `<iframe>` tag
 - Specify `title` attribute, e.g. `title="Lido Staking App"`
 - Specify your link as the value of the `src` attribute
-- [optional] add `width="360"` and `"height="500"` attributes to make the embedded app bigger
+- [optional] add `width="360"` and `height="500"` attributes to make the embedded app bigger
 - You're all done!
 
 See the embedded staking app example [here](/examples/iframe).
