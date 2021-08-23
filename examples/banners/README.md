@@ -2,6 +2,7 @@
 
 Demos on are available on Codesandbox:
 
+- [`330x264`](https://rr458.csb.app/)
 - [`330x264 With Box Shadow`](https://mvz34.csb.app/)
 - [`320x338`](https://mxquv.csb.app/)
 - [`320x338 With Box Shadow`](https://7w05b.csb.app/)
